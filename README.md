@@ -1,0 +1,1 @@
+# djangoproject7_skillwill
